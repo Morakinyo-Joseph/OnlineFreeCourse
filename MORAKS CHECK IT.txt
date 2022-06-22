@@ -2,3 +2,7 @@
 #One teacher can create/contribute to more than one course/subject
 
 #Then the flow of the program, we've not finalised on it, to avoid the issues we had last time.
+--------------------------------------------
+
+#I get.
+#how are you now going to login in that student??
