@@ -1,7 +1,7 @@
 from django.db import models
 from datetime import datetime
 #
-#
+#Note from FIFE: Lecturers should have a one to many attribute... Django has a constraint for that I guess
 #
 # class TeacherModel():
 #     #
