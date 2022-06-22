@@ -5,6 +5,8 @@ from django.db import models
 
 class Student(models.Model):
     F_name = models.CharField(max_length=40)
+    Username = models.CharField(max_length=40)
     L_name = models.CharField(max_length=40)
     email = models.EmailField()
     password = models.CharField(max_length=20)
+    password2 = models.CharField(max_length=20)
